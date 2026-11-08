@@ -8,7 +8,6 @@ I'm **Pasan Lochana Alwis**, an Undergraduate at the **University of Kelaniya** 
 - 🔭 **Currently Working on:** Advanced Multi-counter POS System & Microservices-based Platform
 - ⚙️ **Focusing on:** Backend Engineering, Microservices Architecture & DevOps
 - 🚀 **Learning:** Cloud Computing & High-Availability System Design
-- 🎯 **Goal:** Pursuing a Master's in Germany 🇩🇪 & Becoming a World-Class Cloud/Software Engineer
 
 ---
 
