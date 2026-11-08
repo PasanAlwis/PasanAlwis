@@ -42,7 +42,7 @@ A healthcare pharmacy procurement platform designed to bridge the medicine gap i
 
 ## 📈 Contribution Rhythm
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasanAlwis&layout=compact&theme=react&hide_border=true&bg_color=0d1117" width="80%" alt="Pasan's Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=PasanAlwis&theme=react&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
