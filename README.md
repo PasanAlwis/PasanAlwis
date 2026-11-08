@@ -3,7 +3,7 @@
 </p>
 
 ## 👨‍💻 About Me
-I'm **Pasan Lochana Alwis**, an Undergraduate at the **University of Kelaniya** specializing in Backend Engineering, Cloud Technologies, and Scalable System Architecture.
+I'm **Pasan Lochana Alwis**, an Undergraduate at the **University of Kelaniya** with a passion for building impactful digital solutions and Scalable System Architecture.
 
 - 🔭 **Currently Working on:** Advanced Multi-counter POS System & Microservices-based Platform
 - ⚙️ **Focusing on:** Backend Engineering, Microservices Architecture & DevOps
