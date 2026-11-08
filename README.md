@@ -42,7 +42,7 @@ A healthcare pharmacy procurement platform designed to bridge the medicine gap i
 
 ## 📈 Contribution Rhythm
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PasanAlwis&theme=react&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/00d2ff/PasanAlwis" alt="Pasan's Github chart" width="80%" />
 </p>
 
 ---
